@@ -6,18 +6,7 @@ I'm a passionate frontend developer who loves crafting interactive and user-frie
 
 ---
 
-### 🚀 Projects I'm Proud Of
 
-- 🔲 [**QR Code Generator**](https://github.com/yourusername/qr-code-generator)  
-  A sleek and efficient web app to generate and download QR codes using React and `html-to-image`.
-
-- 📄 Resume Builder  
-  A stepper-based dynamic resume generator built in HTML/CSS and JavaScript with downloadable templates.
-
-- 📊 Code Visualizer *(coming soon)*  
-  An interactive tool to visualize code logic and execution flow in real-time.
-
----
 
 ### 🧰 Tech Stack & Tools
 
